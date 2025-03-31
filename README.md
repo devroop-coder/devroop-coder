@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/devroop-coder/devroop-coder](https://github.com/devroop-coder/devroop-coder)
 
-- 💬 Ask me about **Jetpack compose,Kotlin,,C++,ML,JAVA,WEB**
+- 💬 Ask me about **Jetpack compose,Kotlin,,C/C++,Python,ML,JAVA,WEB**
 
 - 📫 How to reach me **kaushikranjancontact@gmail.com**
 
