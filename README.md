@@ -5,7 +5,7 @@
 </p>
 
 # 💫 About Me:
-👨‍💻 Application Developer & AI Learner passionate about building high-performance apps and exploring intelligent technologies.<br>🛠️ Skilled in Kotlin, Jetpack Compose, Java, C/C++, Python, JavaScript, and Database technologies.<br>🚀 Experienced with Android Studio, Firebase, Git, and REST APIs.<br>🤖 Currently learning and experimenting with AI/ML frameworks like TensorFlow, PyTorch, scikit-learn, Keras, and OpenCV — integrating AI to create smarter, more adaptive applications.<br>💡 Focused on clean architecture, intuitive UI/UX, performance optimization, and solving real-world problems with scalable solutions.<br>📚 Lifelong learner with a passion for combining intelligent systems and modern app development.
+👨‍💻 Application Developer & AI Learner passionate about building high-performance apps and exploring intelligent technologies.<br>🛠️ Skilled in Kotlin, Jetpack Compose,Flutter, Java, C/C++, Python, JavaScript, and Database technologies.<br>🚀 Experienced with Android Studio, Firebase, Git, and REST APIs.<br>🤖 Currently learning and experimenting with AI/ML frameworks like TensorFlow, PyTorch, scikit-learn, Keras, and OpenCV — integrating AI to create smarter, more adaptive applications.<br>💡 Focused on clean architecture, intuitive UI/UX, performance optimization, and solving real-world problems with scalable solutions.<br>📚 Lifelong learner with a passion for combining intelligent systems and modern app development.
 
 
 ## 🌐 Socials:
