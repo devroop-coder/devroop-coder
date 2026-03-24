@@ -5,7 +5,11 @@
 </p>
 
 # 💫 About Me:
-👨‍💻 Application Developer & AI Learner passionate about building high-performance apps and exploring intelligent technologies.<br>🛠️ Skilled in Kotlin, Jetpack Compose,Flutter, Java, C/C++, Python, JavaScript, and Database technologies.<br>🚀 Experienced with Android Studio, Firebase, Git, and REST APIs.<br>🤖 Currently learning and experimenting with AI/ML frameworks like TensorFlow, PyTorch, scikit-learn, Keras, and OpenCV — integrating AI to create smarter, more adaptive applications.<br>💡 Focused on clean architecture, intuitive UI/UX, performance optimization, and solving real-world problems with scalable solutions.<br>📚 Lifelong learner with a passion for combining intelligent systems and modern app development.
+I create modern, user-focused digital products that blend innovation, design, and technology. I enjoy building ideas into meaningful experiences, focusing on solutions that are thoughtful, scalable, and impactful.
+
+Driven by curiosity and a constant urge to explore, I’m always experimenting with new technologies and pushing boundaries to create better digital experiences.
+
+🚀 Always learning, building, and exploring new possibilities.
 
 
 ## 🌐 Socials:
